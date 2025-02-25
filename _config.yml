@@ -1,13 +1,12 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: TRASE Lab at the University of Hong Kong
+lab_name: TRASE Laby
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Prof. Sherry Chan and the TRASE Lab
+institution: HKU
+email: kwsherry@hku.hk
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  The TRASE Lab focuses on treatment-resistant schizophrenia recovery and social cognition in patients with psychotic disorders. 
 baseurl: ""
 url: "https://morinlab.github.io"
 twitter_username: morinryan

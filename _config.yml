@@ -7,8 +7,9 @@ institution: HKU
 email: kwsherry@hku.hk
 description: >
   The TRASE Lab focuses on treatment-resistant schizophrenia recovery and social cognition in patients with psychotic disorders. 
-baseurl: ""
+
 url: "https://traselab.github.io/traselab/"
+baseurl: "/traselab"
 twitter_username: morinryan
 github_username:  morinlab
 images_dir: "/images/"

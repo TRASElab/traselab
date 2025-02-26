@@ -1,73 +1,32 @@
-- name: Genetic and molecular mechanisms of treatment resistance in DLBCL
+- name:  Clinical Insight in schizophrenia
   description: >
-    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed
-    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent.
-    DLBCL patients exhibit variable responses to available therapies such
-    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on
-    gene expression signatures to identify high-risk cases.
-    For example, DLBCL comprises two cell-of-origin (COO) subgroups with
-    activated B-cell (ABC) cases typically having worse prognosis than
-    germinal centre B-cell (GCB) cases.
-    Therapeutics that exploit molecular features unique to each subgroup
-    are being actively pursued but up-front identification of patients
-    unlikely to achieve a durable response remains a challenge.
-    Although existing methods can identify specific prognostic gene
-    expression features, these capture only some of the clinical
-    heterogeneity and require tumour RNA, which is not always available.
-    Using comprehensive genomic analyses and by integrating mutation and
-    expression data from over 2000 DLBCL tumours, we seek novel molecular
-    features that are associated with treatment resistance in DLBCL.
-    The ultimate goal of this work is to develop new predictive and
-    prognostic biomarkers and identify new therapeutic targets for
-    treatment-resistant DLBCLs.
+    Though there have been many studies exploring clinical and cognitive correlates of insight in patients with schizophrenia, 
+    mostly were with cross-sectional approach and with patients of different stages of illness. One of our studies examined clinical 
+    and cognitive correlates in drug naive patients with schizophrenia and the other study looked at longitudinal changes of relationship of
+    insight and cognition. Another study explored the relationship between medication adherence, insight and knowledge about the illness.​
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
   photo: projects/dhitsig.png
 
-- name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
+- name: Evaluation of Long term outcomes of early intervention of psychosis service
   description: >
-    Through genomic characterization of DLBCL we identified somatic amplification
-    of the Fc gamma receptor 2B gene (FCGR2B) as a feature in ~5% of cases. We also 
-    found the expression of FCGR2B (by RNA-seq) was prognostic in multiple DLBCL cohorts. 
-    FCGR2B contributes to treatment resistance by promoting the internalization of the 
-    rituximab antibody by malignant cells, allowing them to evade immune detection. 
-    It may therefore serve as an important biomarker to identify high-risk patients and 
-    stratify them to recieve newer immunotherapies that can mitigate the effects of high 
-    FCGR2B expression. Understanding the genetic mechanisms that drive FCGR2B amplification 
-    and overexpression has been complicated by the segmental duplication that affects 
-    the FCGR locus, which makes it difficult to accurately align short reads to FCGR2B 
-    or its closely-related paralog FCGR2C. We have been employing long-read Oxford 
-    Nanopore sequencing and Bionano optical mapping to accurately characterize the 
-    structural and single nucleotide variation within the locus.
+    One of the key questions in establishing the early intervention service for psychosis is whether the shortterm effect of the early intervention service can sustain in the long term. The early intervention service in different countries is usually about 2-3 years. There have been some studies on the medium term effect of early intervention service such as 5-7 years, studies on longer term effect is limited. We have conducted studies systematically evaluating 10-year outcomes of early intervention service compared with the standard care and results have contributed to this gap of research.
   funding: ASH Foundation
   collaborators: David Scott
   assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
   photo: projects/FCGR2B_cropped.png
 
-- name: Resolving clonal structure and evolution patterns in DLBCL
+- name: Public stigma of psychosis
   description: >
-    Diffuse Large B-Cell Lymphoma is a genetically heterogeneous form of cancer, 
-    with different cells in the tumour acquiring different mutations. This 
-    intra-tumour heterogeneity can have profound effects on treatment; if a clonal 
-    subpopulations is resistant to treatment, it will reform the tumour following 
-    treatment, causing the patient to relapse. We are recieving samples from several
-    clinical trials exploring different salvage therapies for patients with relapsed
-    DLBCL. Tumour biopsies and liquid biopsies are being collected from patients 
-    both before and after they are treated. Using these temporal sources of tumour DNA,
-    we can identify clonal subpopulations in the tumour, 
-    and further explore how the tumour evolves and adapts in the face of a strong 
-    selective pressure such as treatment. The mutations unique to these resistant 
-    clonal subpopulations can be explored to determine which mutation(s) result 
-    in treatment resistance. We can further determine if these mutations are 
-    detectable prior to treatment, which may allow patient to be screened for resistance 
-    mutations before they are treated.
+    Public stigma on psychosis is one of the major barriers towards help seeking and patient recovery. It is also likely to be related to the development of self-stigma and insight deficit. We have explored factors contributing to the public stigma in order to support further development of effective i​ntervention. Our finding further suggested gender specific intervention should be considered.
+
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
   photo: projects/DLBCL_Evolution.png
 
-- name: Circulating Tumour DNA as a biomarker in non-Hodgkin lymphoma
+- name: Reference delusion in psychosis
   description: >
     This project aims to develop a novel way of monitoring patients with lymphoma and find a new immunotherapy regimen
     that would be effective in patients that are not cured with conventional chemotherapy. They will first genetically
@@ -81,81 +40,29 @@
   
 - name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
   description: >
-    Mantle cell lymphoma is a rare cancer that derives from B lymphocytes in the periphery (mantle zone)
-    of the germinal centre. MCL is most often diagnosed at stage 3 or 4 and is typically aggressive although some patients have an indolent form of the disesae.
-    Only 30-40% of patients with advanced disease achieving a complete response to frontline treatments (R-bendamustine).
-    Heterogeneous clinical response is partially attributable to observable variations in morphology, immunophenotype and proliferative capacity;
-    however, there is little known about the relationship between genetic features and variation in phenotype or response to specific treatment regimens.
-    Through a meta-analysis of in-house and existing exome sequencing data, our group has identified multiple novel driver mutations in MCL including some that associate with high or low proliferation.
-    To more completely ascertain the mutations that lead to lymphomagenesis in MCL, we are performing an integrative proteogenomic characterization of MCL tumours using a combination of whole genome sequencing, RNA-seq and shotgun proteomics.
-    We will are using these data to identify novel coding and non-coding (i.e. regulatory) driver mutations that affect the natural history of MCL including treatment response.
+    Reference delusion is one of the commonest delusions in patients with psychosis. Typically, patients believe that non-self-related events are relevant to self eg believe others are looking at self but others are not, named as self-referential gaze perception. Self-referential gaze perception is also highly relevant in social cognition. I have developed a behavioral paradigm in looking into this phenomenon in different populations, first episode patients, patients in remission and those in prodromal state to explore its underlying mechanisms.
+
   funding: Terry Fox Research Institute
   collaborators: Marco Marra, David Scott, Diego Villa
   assignees: Prasath Pararajalingam, Krysta Coyle
   photo: projects/mcl_oncoplot.png
 
-- name: Identification and functional characterization of recurrent non-coding mutations in NHLs
+- name: Treatment resistant schizophrenia
   description: >
-       The list of protein-coding drivers identified through sequencing in DLBCL
-       has begun to saturate and yet there remains a gap in our understanding
-       of how these genetic alterations contribute to the
-       transcriptional differences underlying known prognostic signatures and molecular subgroups.
-       For example, dysregulation of NF-κB is the hallmark feature of ABC
-       DLBCL but many ABC cases appear to lack the common driver mutations
-       that are known to promote NF-κB. We are seeking driver mutations
-       that contribute to some features of NHLs.
-       We use data-driven comprehnsive methods that allow identification of
-       non-coding SSMs with a regulatory effect in cis or trans on
-       genes/proteins relevant to malignancy.
+      Though antipsychotic medication is effective in ameliorating positive symptoms of patients with schizophrenia, about 20-40% of patients are not responding to the current form of antipsychotic medications and are considered as treatment resistant. They are often the group of patients with poorer outcomes and require more health care resources. Clozapine is the only antipsychotic medication found to be effective in treating treatment resistant schizophrenia, yet only about 60% of patients are responding. Therefore understanding the mechanisms of treatment resistant schizophrenia and predictors can help to improve our care to this group of patients.​
+
   funding: Terry Fox Research Institute, CIHR
   collaborators: Christian Steidl, Tim Audas, Peter Unrau
   assignees: Sarah Arthur, Krysta Coyle, Matthew Nguyen, Aixiang Jiang
   photo: projects/NFKBIZ_overview_cropped.png
 
-- name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
+- name: Psychotic-like experience
   description: >
-    Burkitt lymphoma (BL) is currently classified as one of three clinical
-    variants: endemic BL, sporadic BL, and HIV-associated BL.
-    The endemic variant is primarily diagnosed in sub-Saharan Africa and is
-    epidemiologically associated with the Epstein–Barr virus (EBV) and
-    malaria infection; although, the role of these pathogens in promoting
-    the formation of BL remains unclear.
-    On the other hand, sporadic BL is diagnosed outside of malaria-endemic
-    areas, with only a minority of cases being EBV-positive (10-30%).
-    This project seeks to generate high-throughput whole genome and
-    transcriptome sequencing data from over 100 BL tumours in order to
-    elucidate the genetic and molecular underpinnings of the disease.
-    With this project, we aim to refine the mutational landscape of BL to
-    facilitate the development of less toxic targeted therapies.
-    We also plan on investigating the oncogenic role of EBV and whether it may
-    serve as a better criterion for disease classification than the current
-    system relying on geographic origin.
+    Psychotic-like experience in the general public has been studied from two perspectives. One is transdiagnostic and dimensional understanding of the psychiatric conditions. The second one is psychosis continuum perspective. We are interested to have a detailed understanding of this phenomenon through different approaches including epidemiologically, psychopathology, cognitive function and neuroscience.
+
   funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
   collaborators: Marco Marra, Louis Staudt
   assignees: Bruno Grande, Aixiang Jiang
   photo: projects/blgsp_ash_2017.jpg
   
-- name: Genetic characterization of HIV-associated DLBCL
-  description: >
-    Diffuse large B-cell lymphoma is a common HIV-associated cancer.
-    The genetic and molecular aetiology of HIV+ DLBCL has not been thoroughly explored. 
-    This study seeks to characterize HIV+ DLBCL through comprehensive whole genome, 
-    transcriptome, and miRNA sequencing. Enhancing our understanding of the molecular features of these 
-    tumours, particularly those that distinguish them from other DLBCLs, may translate into improved
-    therapies for a growing population of patients afflicted with both HIV and cancer. 
-  funding: National Cancer Institute
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Nicole Thomas, Bruno Grande
-  photo: 
 
-- name: Genetic characterization of canine B-cell lymphomas
-  description: >
-    Cancer is the leading cause of premature death in pet dogs and non-Hodgkin lymphomas are the most common cancer in most dog breeds.
-    Unlike human lymphomas with similar histopathology, canine B-cell lymphomas (cBCL) are incurable and exhibit an agressive clinical course.
-    We are sequencing cBCLs to identify driver mutations that contribute to this cancer in a variety of dog breeds. 
-    We identified TRAF3 as a novel tumour suppressor in cBCL and are pursuing additional candidate genes. 
-    We are also exploring plasma from cBCLs to evaluate the utility of ctDNA as a biomarker and non-invasive source of tumour DNA in canine lymphoma. 
-  funding: NSERC
-  collaborators:
-  assignees: Kevin Bushell, Jack Hillman, Matt Cheung
-  photo: projects/TRAF3.png

@@ -13,6 +13,7 @@ baseurl: "/traselab"
 twitter_username: morinryan
 github_username:  morinlab
 images_dir: "/images/"
+team_photo: "/images/team/teampic.jpg"
 
 # Build settings
 markdown: kramdown

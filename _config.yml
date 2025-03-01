@@ -11,8 +11,8 @@ description: >
  
 url: "https://traselab.github.io"
 baseurl: "/traselab"
-twitter_username: morinryan
-github_username:  morinlab
+twitter_username: /
+github_username:  /
 images_dir: "/images/"
 team_photo: "/images/team/teampic.jpg"
 

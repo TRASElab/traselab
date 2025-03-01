@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GAMBL
+title: TripCal
 permalink: /pi/
 toggle: on
 rank: 6

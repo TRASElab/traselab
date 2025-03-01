@@ -1,14 +1,3 @@
-- name:  Clinical Insight in schizophrenia
-  description: >
-    Though there have been many studies exploring clinical and cognitive correlates of insight in patients with schizophrenia, 
-    mostly were with cross-sectional approach and with patients of different stages of illness. One of our studies examined clinical 
-    and cognitive correlates in drug naive patients with schizophrenia and the other study looked at longitudinal changes of relationship of
-    insight and cognition. Another study explored the relationship between medication adherence, insight and knowledge about the illness.​
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
-  photo: projects/dhitsig.png
-
 - name: Evaluation of Long term outcomes of early intervention of psychosis service
   description: >
     One of the key questions in establishing the early intervention service for psychosis is whether the shortterm effect of the early intervention service can sustain in the long term. The early intervention service in different countries is usually about 2-3 years. There have been some studies on the medium term effect of early intervention service such as 5-7 years, studies on longer term effect is limited. We have conducted studies systematically evaluating 10-year outcomes of early intervention service compared with the standard care and results have contributed to this gap of research.
@@ -17,52 +6,28 @@
   assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
   photo: projects/FCGR2B_cropped.png
 
-- name: Public stigma of psychosis
+- name: Evaluation of Long term outcomes of early intervention of psychosis service
   description: >
-    Public stigma on psychosis is one of the major barriers towards help seeking and patient recovery. It is also likely to be related to the development of self-stigma and insight deficit. We have explored factors contributing to the public stigma in order to support further development of effective i​ntervention. Our finding further suggested gender specific intervention should be considered.
+    Our research focuses on understanding how disruptions in brain systems give rise to psychotic symptoms. We use cutting-edge techniques—ranging from neuroimaging to molecular assays—to pinpoint the genetic, cellular, and circuit-level abnormalities that underlie psychosis. By clarifying these neural mechanisms, we aim to inform the development of more effective diagnostic tools and treatments for individuals affected by psychotic disorders.
+  funding: ASH Foundation
+  collaborators: David Scott
+  assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
+  photo: projects/FCGR2B_cropped.png
 
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
-  photo: projects/DLBCL_Evolution.png
-
-- name: Reference delusion in psychosis
-  description: >
-    This project aims to develop a novel way of monitoring patients with lymphoma and find a new immunotherapy regimen
-    that would be effective in patients that are not cured with conventional chemotherapy. They will first genetically
-    profile the tumours to determine at which time point they become resistant. They will then determine how these
-    lymphomas evade immune detection and test if targeting these evasion strategies, i.e. "harnessing the immune response"
-    is successful at eradicating chemo-resistant lymphoma.
-  funding: CIHR
-  collaborators: Christian Steidl, Nathalie Johnson
-  assignees: Miguel Alcaide, Stephen Yu, Chris Rushton
-  photo: projects/Figure_1_amplicon.png
   
-- name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
-  description: >
-    Reference delusion is one of the commonest delusions in patients with psychosis. Typically, patients believe that non-self-related events are relevant to self eg believe others are looking at self but others are not, named as self-referential gaze perception. Self-referential gaze perception is also highly relevant in social cognition. I have developed a behavioral paradigm in looking into this phenomenon in different populations, first episode patients, patients in remission and those in prodromal state to explore its underlying mechanisms.
-
-  funding: Terry Fox Research Institute
-  collaborators: Marco Marra, David Scott, Diego Villa
-  assignees: Prasath Pararajalingam, Krysta Coyle
-  photo: projects/mcl_oncoplot.png
-
 - name: Treatment resistant schizophrenia
   description: >
       Though antipsychotic medication is effective in ameliorating positive symptoms of patients with schizophrenia, about 20-40% of patients are not responding to the current form of antipsychotic medications and are considered as treatment resistant. They are often the group of patients with poorer outcomes and require more health care resources. Clozapine is the only antipsychotic medication found to be effective in treating treatment resistant schizophrenia, yet only about 60% of patients are responding. Therefore understanding the mechanisms of treatment resistant schizophrenia and predictors can help to improve our care to this group of patients.​
-
   funding: Terry Fox Research Institute, CIHR
   collaborators: Christian Steidl, Tim Audas, Peter Unrau
   assignees: Sarah Arthur, Krysta Coyle, Matthew Nguyen, Aixiang Jiang
   photo: projects/NFKBIZ_overview_cropped.png
 
-- name: Psychotic-like experience
+- name: Social cognition in schizophrenia and across psychiatric disorders
   description: >
-    Psychotic-like experience in the general public has been studied from two perspectives. One is transdiagnostic and dimensional understanding of the psychiatric conditions. The second one is psychosis continuum perspective. We are interested to have a detailed understanding of this phenomenon through different approaches including epidemiologically, psychopathology, cognitive function and neuroscience.
-
-  funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Bruno Grande, Aixiang Jiang
-  photo: projects/blgsp_ash_2017.jpg
-  
+    Our research explores how social cognitive processes—such as mentalizing, gaze perception, and emotion recognition—contribute to schizophrenia and other mental health conditions. By comparing these processes across diagnostic groups, we aim to uncover shared mechanisms and pinpoint condition-specific factors. This work informs targeted interventions designed to improve social functioning and overall outcomes for individuals with diverse psychiatric presentations.
+  funding: Terry Fox Research Institute
+  collaborators: Marco Marra, David Scott, Diego Villa
+  assignees: Prasath Pararajalingam, Krysta Coyle
+  photo: projects/mcl_oncoplot.png
 

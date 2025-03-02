@@ -20,7 +20,7 @@ navigation:
   - title: Projects
     url: /projects/
   - title: Team
-    url: /team/
+    url: /team-static/
   - title: Software
     url: /software/
   - title: TripCal

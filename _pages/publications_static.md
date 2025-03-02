@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications-static/
+rank: 4
 ---
 
 <meta http-equiv="refresh" content="0; url=https://scholar.google.com/citations?user=ftcxXVIAAAAJ&hl=en">

@@ -1,5 +1,8 @@
 ---
-layout:Team
+layout: page
+title: Team
+permalink: /team-static/
+toggle: on
 ---
 
 <section class="team">

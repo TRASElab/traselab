@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /team-static/
+toggle: on
 ---
 
 ## Principal Investigator

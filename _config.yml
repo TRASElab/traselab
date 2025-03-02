@@ -21,8 +21,6 @@ navigation:
     url: /projects/
   - title: Team
     url: /team-static/
-  - title: Software
-    url: /software/
   - title: TripCal
     url: /tripcal/
   - title: Publications

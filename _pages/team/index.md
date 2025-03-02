@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-permalink: /team/
+permalink: /team-static/
 toggle: on
 rank: 2
 ---

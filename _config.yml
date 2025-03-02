@@ -21,10 +21,11 @@ navigation:
     url: /projects/
   - title: Team
     url: /team-static/
-  - title: TripCal
-    url: /tripcal/
   - title: Publications
     url: /publications-static/
+  - title: TripCal
+    url: /tripcal/
+
 
 # Build settings
 markdown: kramdown

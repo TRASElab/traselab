@@ -17,12 +17,12 @@ My main research interests are in the evaluation of early intervention service, 
 ## Postgraduate Students
 - Harry Tsui
 - Zhuoma
-- Molly
+- Molly Li
 - Hui Chen Photon
 - Charmaine Wong
 
 ## Research Assistants
-- Sally
+- Sally Tse
 - Victoria Lim
 - Fortuna Hau
 - Amy Au

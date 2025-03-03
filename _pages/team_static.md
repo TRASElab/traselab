@@ -7,7 +7,7 @@ toggle: on
 ---
 
 ## Principal Investigator
-![Dr. CHAN Kit Wa, Sherry]({{ site.baseurl }}/images/sherrypic.jpeg)
+<img src="{{ site.baseurl }}/images/sherrypic.jpeg" alt="Dr. CHAN Kit Wa, Sherry" style="width: 200px; float: right; margin-left: 20px;">
 ### Dr. CHAN Kit Wa, Sherry
 **Clinical Associate Professor**  
 My main research interests are in the evaluation of early intervention service, longitudinal outcomes of psychosis, treatment-resistant schizophrenia, psychopathology (particularly insight and delusion) and its neurobiological basis, metacognition and insight, and psychotic-like experiences.

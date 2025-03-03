@@ -47,21 +47,6 @@ $on-laptop:        800px;
     }
 }
 
-.footer-logo-container {
-    text-align: right; /* Aligns the logo to the right */
-    display: flex;
-    justify-content: flex-end; /* Pushes logo to the right */
-    align-items: center;
-}
-
-.footer-logo {
-    width: auto; /* Maintain natural width */
-    height: 200px; /* Increase height while keeping aspect ratio */
-    max-width: 450px; /* Prevents excessive width */
-    object-fit: contain; /* Ensures the image scales properly */
-}
-
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

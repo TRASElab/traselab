@@ -57,7 +57,7 @@ $on-laptop:        800px;
 .footer-logo {
     width: auto; /* Maintain natural width */
     height: 80px; /* Increase height while keeping aspect ratio */
-    max-width: 200px; /* Prevents excessive width */
+    max-width: 450px; /* Prevents excessive width */
     object-fit: contain; /* Ensures the image scales properly */
 }
 

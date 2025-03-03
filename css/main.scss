@@ -47,19 +47,20 @@ $on-laptop:        800px;
     }
 }
 
-
 .footer-logo-container {
     text-align: right; /* Aligns the logo to the right */
     display: flex;
-    justify-content: flex-end; /* Ensures it's at the far right */
+    justify-content: flex-end; /* Pushes logo to the right */
     align-items: center;
 }
 
 .footer-logo {
-    width: 200px; /* Try increasing this value */
-    height: auto; /* Keeps aspect ratio */
-    max-height: 80px; /* Prevents it from being too tall */
+    width: auto; /* Maintain natural width */
+    height: 80px; /* Increase height while keeping aspect ratio */
+    max-width: 200px; /* Prevents excessive width */
+    object-fit: contain; /* Ensures the image scales properly */
 }
+
 
 
 

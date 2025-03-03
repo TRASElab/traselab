@@ -3,6 +3,7 @@ layout: page
 title: TripCal
 permalink: /tripcal/
 toggle: on
+rank: 4
 ---
 
 ## The Risk Calculator of Treatment Resistance in Psychosis (TRipCal)

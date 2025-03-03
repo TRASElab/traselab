@@ -54,6 +54,15 @@ $on-laptop:        800px;
     margin-top: -20px; /* Adjusts vertical alignment */
 }
 
+.footer-logo-container {
+    text-align: right; /* Align logo to the right */
+}
+
+.footer-logo {
+    max-width: 150px; /* Prevents it from getting too large */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: -10px; /* Adjust vertical spacing */
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

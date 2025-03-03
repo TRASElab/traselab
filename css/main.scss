@@ -47,19 +47,13 @@ $on-laptop:        800px;
     }
 }
 
-.footer-logo {
-    width: 160px; /* Adjust size */
-    height: auto;
-    float: right; /* Aligns it to the right */
-    margin-top: -20px; /* Adjusts vertical alignment */
-}
 
 .footer-logo-container {
     text-align: right; /* Align logo to the right */
 }
 
 .footer-logo {
-    max-width: 150px; /* Prevents it from getting too large */
+    max-width: 200px; /* Prevents it from getting too large */
     height: auto; /* Maintain aspect ratio */
     margin-top: -10px; /* Adjust vertical spacing */
 }

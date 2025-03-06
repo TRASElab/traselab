@@ -14,10 +14,12 @@ toggle: on
 ---
 
 ## <span id="postgraduates">Postgraduate Students</span>
-**Zhou Huiquan Photon (Postdoctorate Fellow)**
+**Zhou Huiquan, Photon (Postdoctorate Fellow)**
+<img src="{{ site.baseurl }}/images/photon.jpg" alt="Zhou Huiquan Photon" style="width: 200px; float: left; margin-left: 20px;">
 - My research focuses on advancing the understanding of psychosis and developing innovative interventions through clinical and big-data approaches. I aim to explore longitudinal patterns of comorbidities and medications, particularly in treatment-resistant schizophrenia, using predictive modeling and precision medicine to create tailored strategies that reduce adverse outcomes and improve treatment efficacy.
 
 **Harry Tsui (Ph.D Candidate)**
+<img src="{{ site.baseurl }}/images/harry.jpg" alt="Harry Tsui" style="width: 200px; float: left; margin-left: 20px;">
 - My research focuses on social cognition, particularly theory of mind (ToM) and mentalizing impairments across psychiatric disorders. In addition, I am deeply engaged in computational psychiatry and meta-analytic studies, aiming to explore and model the complex interactions between cognitive processes, behavior, and psychopathology.
 
 **Ciren Zhuoma (Ph.D Candidate)**

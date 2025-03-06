@@ -15,7 +15,7 @@ toggle: on
 
 4.	Wong T.Y., Luo H., Tang J., Moore T.M., Gur R.C., Suen Y.N., Hui C.L.M., Lee E.H.M., Chang W.C., Yan W.C., Chui E., Poon L.T., Lo A., Cheung K., Kan C.K., Chen E.Y.H. & Chan S.K.W*. (2024). Development of an individualized risk calculator of treatment resistance in patients with first-episode psychosis (TRipCal) using automated machine learning: a 12-year follow-up study with clozapine prescription as a proxy indicator. Translational Psychiatry, 14(1), 50. doi: 10.1038/s41398-024-02754-w. (JIF= 5.8, Psychiatry ranking = 25/279, Google Scholar Citation: 5, Scopus: 4)
 
-Ten significant publications since last promotion (May 2021) (as first, co-first #, corresponding* and Last author)
+## Ten significant publications since last promotion (May 2021) (as first, co-first #, corresponding* and Last author)
 
 1.	Tse W., Khandake G. M., Zhou H., Luo H., Yan W.C., Siu M.W., Poon L.T., Lee E.H.M., Zhang Q., Upthegrove R., Osimo E.F., Perry B.I. & Chan S.K.W*. (2024). Assessing the generalisability of the psychosis metabolic risk calculator (PsyMetRiC) for young people with first-episode psychosis with validation in a Hong Kong Chinese Han population: a 4-year follow-up study. The Lancet Regional Health–Western Pacific, 47. doi: 10.1016/j.lanwpc.2024.10108. (JIF= 7.6, Public, Environmental & Occupational Health ranking = 18/408, Google Scholar Citation: 0, Scopus: 0)
 

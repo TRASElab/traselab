@@ -3,10 +3,41 @@ layout: page
 title: Team
 permalink: /team-static/
 toggle: on
-
 ---
 
-## Principal Investigator
+<style>
+  .team-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .team-buttons button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    background-color: #0073e6;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .team-buttons button:hover {
+    background-color: #005bb5;
+  }
+</style>
+
+<div class="team-buttons">
+  <button onclick="scrollToSection('pi')">Principal Investigator</button>
+  <button onclick="scrollToSection('postgraduates')">Postgraduate Students</button>
+  <button onclick="scrollToSection('ras')">Research Assistants</button>
+</div>
+
+<script>
+  function scrollToSection(id) {
+    document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+  }
+</script>
+
+## <span id="pi">Principal Investigator</span>
 <img src="{{ site.baseurl }}/images/sherrypic.jpeg" alt="Dr. CHAN Kit Wa, Sherry" style="width: 200px; float: right; margin-left: 20px;">
 ### Dr. CHAN Kit Wa, Sherry
 **Clinical Associate Professor**  
@@ -14,7 +45,7 @@ toggle: on
 
 ---
 
-## Postgraduate Students
+## <span id="postgraduates">Postgraduate Students</span>
 **Zhou Huiquan Photon (Postdoctorate Fellow)**
 - My research focuses on advancing the understanding of psychosis and developing innovative interventions through clinical and big-data approaches. I aim to explore longitudinal patterns of comorbidities and medications, particularly in treatment-resistant schizophrenia, using predictive modeling and precision medicine to create tailored strategies that reduce adverse outcomes and improve treatment efficacy.
 
@@ -33,8 +64,9 @@ toggle: on
 **Sophia (MPhil Student)**
 - research interest
 
+---
 
-## Research Assistants
+## <span id="ras">Research Assistants</span>
 - Sally Tse
 - Victoria Lim
 - Fortuna Hau

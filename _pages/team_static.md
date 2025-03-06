@@ -19,20 +19,20 @@ toggle: on
 - My research focuses on advancing the understanding of psychosis and developing innovative interventions through clinical and big-data approaches. I aim to explore longitudinal patterns of comorbidities and medications, particularly in treatment-resistant schizophrenia, using predictive modeling and precision medicine to create tailored strategies that reduce adverse outcomes and improve treatment efficacy.
 
 
-## Harry Tsui (Ph.D Candidate)
+### Harry Tsui (Ph.D Candidate)
 <img src="{{ site.baseurl }}/images/harry.jpg" alt="Harry Tsui" style="width: 200px; float: left; margin-right: 20px;">
 - My research focuses on social cognition, particularly theory of mind (ToM) and mentalizing impairments across psychiatric disorders. In addition, I am deeply engaged in computational psychiatry and meta-analytic studies, aiming to explore and model the complex interactions between cognitive processes, behavior, and psychopathology.
 
-## Ciren Zhuoma (Ph.D Candidate)
+### Ciren Zhuoma (Ph.D Candidate)
 - My research interests include youth mental health, self-harm and suicide, and adverse childhood experiences.
   
-## Molly Li (Ph.D Candidate)
+### Molly Li (Ph.D Candidate)
 - My research focuses on the longitudinal trajectories and outcomes of severe mental illness.
 
-## Charmaine Wong (MPhil Student)
+### Charmaine Wong (MPhil Student)
 - research interest
 
-## Sophia (MPhil Student)
+### Sophia (MPhil Student)
 - research interest
 
 ---

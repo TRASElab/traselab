@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TripCal
+title: Risk Calculators
 permalink: /tripcal/
 toggle: on
 rank: 4

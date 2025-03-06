@@ -6,29 +6,65 @@ toggle: on
 ---
 
 <style>
-  .team-buttons {
-    text-align: center;
-    margin-bottom: 20px;
+  /* Styles for the navigation menu */
+  .nav {
+    display: flex;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 10px;
   }
-  .team-buttons button {
+
+  .nav-item {
+    position: relative;
     padding: 10px 15px;
-    margin: 5px;
+    cursor: pointer;
+  }
+
+  /* Dropdown menu styling */
+  .dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    display: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    z-index: 100;
+  }
+
+  .dropdown button {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    text-align: left;
     border: none;
+    background-color: white;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .dropdown button:hover {
     background-color: #0073e6;
     color: white;
-    cursor: pointer;
-    font-size: 16px;
-    border-radius: 5px;
   }
-  .team-buttons button:hover {
-    background-color: #005bb5;
+
+  /* Show dropdown on hover */
+  .nav-item:hover .dropdown {
+    display: block;
   }
 </style>
 
-<div class="team-buttons">
-  <button onclick="scrollToSection('pi')">Principal Investigator</button>
-  <button onclick="scrollToSection('postgraduates')">Postgraduate Students</button>
-  <button onclick="scrollToSection('ras')">Research Assistants</button>
+<!-- Navigation Menu -->
+<div class="nav">
+  <div class="nav-item">
+    Team
+    <div class="dropdown">
+      <button onclick="scrollToSection('pi')">Principal Investigator</button>
+      <button onclick="scrollToSection('postgraduates')">Postgraduate Students</button>
+      <button onclick="scrollToSection('ras')">Research Assistants</button>
+    </div>
+  </div>
 </div>
 
 <script>

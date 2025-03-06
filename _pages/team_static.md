@@ -38,8 +38,8 @@ toggle: on
 ---
 
 ## <span id="ras">Research Assistants</span>
-- Sally Tse
-- Victoria Lim
+** Sally Tse **
+** Victoria Lim **
 - Fortuna Hau
 - Amy Au
 - Rachel Ho

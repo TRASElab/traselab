@@ -21,7 +21,7 @@ toggle: on
 <br><br>
 
 ### Harry Tsui (Ph.D Candidate)
-<img src="{{ site.baseurl }}/images/harry.jpg" alt="Harry Tsui" style="width: 200px; float: left; margin-right: 20px;">
+<img src="{{ site.baseurl }}/images/harry.jpg" alt="Harry Tsui" style="width: 200px; float: right; margin-left: 20px;">
 - My research focuses on social cognition, particularly theory of mind (ToM) and mentalizing impairments across psychiatric disorders. In addition, I am deeply engaged in computational psychiatry and meta-analytic studies, aiming to explore and model the complex interactions between cognitive processes, behavior, and psychopathology.
 
 ### Ciren Zhuoma (Ph.D Candidate)

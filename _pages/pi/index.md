@@ -11,10 +11,12 @@ The **Risk Calculator of Treatment Resistance in Psychosis (TRipCal)** is an ong
 
 For more details, visit the **official website**:  
 🔗 [**TRipCal**](https://tripcal.psychiatry.hku.hk/)
+
 📄 [**Read our paper on the methodology and findings here**](https://www.nature.com/articles/s41398-024-02754-w)
 <br><br>
 ## The Psychosis Metabolic Risk Calculator (PsyMetRiC)
 Metabolic syndrome (MetS) is common following first-episode psychosis (FEP), contributing to substantial morbidity and mortality. Initially developed by researchers at The University of Birmingham and University of Cambridge, **The Psychosis Metabolic Risk Calculator (PsyMetRiC)** is a risk prediction algorithm for MetS following a FEP diagnosis, and has been validated in the UK and other European populations. We examined the external validity of the PsyMetRiC-HK for young people with FEP in Hong Kong, here's the paper:
 
 📄 [**Read our paper here**](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00083-X/fulltext#app-1)
+
 🔗For more details, visit the official online calculator: [**PsyMetRiC**](https://psymetric.app/)

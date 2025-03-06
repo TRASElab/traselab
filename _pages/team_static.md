@@ -15,12 +15,12 @@ My main research interests are in the evaluation of early intervention service, 
 ---
 
 ## Postgraduate Students
-- Harry Tsui
-- Zhuoma
-- Molly Li
-- Hui Chen Photon
-- Charmaine Wong
-- Sophia
+- Zhou Huiquan Photon (Postdoctorate Fellow)
+- Harry Tsui (Ph.D Candidate)
+- Ciren Zhuoma (Ph.D Candidate)
+- Molly Li (Ph.D Candidate)
+- Charmaine Wong (MPhil Student)
+- Sophia 
 
 ## Research Assistants
 - Sally Tse

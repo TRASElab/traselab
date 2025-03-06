@@ -11,13 +11,17 @@
   <div class="wrapper main-menu">
     <nav class="site-nav">
       <ul class="nav-list">
+        {% assign current_page = page.url | remove: 'index.html' %}  <!-- Get current page URL -->
+        
         {% assign pages = site.pages | sort: "rank" %}
         {% for p in pages %}
           {% if p.title and p.toggle %}
+            {% assign page_url = p.url | remove: 'index.html' %}
+
             {% if p.title == "Team" %}
               <!-- Dropdown Menu for Team -->
-              <li class="nav-item dropdown">
-                <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">Team</a>
+              <li class="nav-item dropdown {% if current_page contains page_url %} active {% endif %}">
+                <a class="page-link" href="{{ site.baseurl }}/team-static/">Team</a>
                 <ul class="dropdown-menu">
                   <li><a href="{{ site.baseurl }}/team-static/#pi">Principal Investigator</a></li>
                   <li><a href="{{ site.baseurl }}/team-static/#postgraduates">Postgraduate Students</a></li>
@@ -25,7 +29,9 @@
                 </ul>
               </li>
             {% else %}
-              <li class="nav-item"><a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+              <li class="nav-item {% if current_page contains page_url %} active {% endif %}">
+                <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+              </li>
             {% endif %}
           {% endif %}
         {% endfor %}
@@ -35,10 +41,10 @@
 </header>
 
 <style>
-  /* General Navigation Styles */
+  /* General navigation styling */
   .site-nav {
     display: flex;
-    justify-content: center; /* Centers the navigation */
+    justify-content: center;
   }
 
   .nav-list {
@@ -46,13 +52,23 @@
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: space-around; /* Spreads out the menu items evenly */
-    width: 80%; /* Adjust this value to control spacing */
+    justify-content: space-around;
+    width: 80%;
   }
 
   .nav-item {
     position: relative;
-    padding: 10px 20px; /* Adds spacing between menu items */
+    padding: 10px 20px;
+  }
+
+  .nav-item a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  .nav-item.active a {
+    font-weight: bold;
+    text-decoration: underline;
   }
 
   /* Dropdown menu */
@@ -60,10 +76,10 @@
     display: none;
     position: absolute;
     background-color: white;
-    min-width: 220px;
+    min-width: 160px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
-    padding: 10px 0;
+    padding: 5px 0;
     list-style: none;
     z-index: 1000;
     left: 50%;
@@ -71,7 +87,7 @@
   }
 
   .dropdown-menu li {
-    padding: 10px;
+    padding: 5px;
     text-align: center;
   }
 
@@ -79,7 +95,8 @@
     text-decoration: none;
     color: #333;
     display: block;
-    padding: 10px 15px;
+    padding: 8px 12px;
+    font-size: 14px;
   }
 
   .dropdown-menu li a:hover {
@@ -87,7 +104,7 @@
     color: white;
   }
 
-  /* Show dropdown only on hover */
+  /* Show dropdown on hover */
   .dropdown:hover .dropdown-menu {
     display: block;
   }

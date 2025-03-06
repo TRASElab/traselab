@@ -35,6 +35,16 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+
+    <!-- Dropdown Menu for Risk Calculators -->
+<li class="nav-item dropdown {% if current_page contains '/tripcal/' %} active {% endif %}">
+  <a class="page-link" href="{{ site.baseurl }}/tripcal/">Risk Calculators</a>
+  <ul class="dropdown-menu">
+    <li><a href="{{ site.baseurl }}/tripcal/#tripcal">TRipCal</a></li>
+    <li><a href="{{ site.baseurl }}/tripcal/#psymetric">PsyMetRiC</a></li>
+  </ul>
+</li>
+
       </ul>
     </nav>
   </div>

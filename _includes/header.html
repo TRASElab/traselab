@@ -10,7 +10,7 @@
 
   <div class="wrapper main-menu">
     <nav class="site-nav">
-      <ul>
+      <ul class="nav-list">
         {% assign pages = site.pages | sort: "rank" %}
         {% for p in pages %}
           {% if p.title and p.toggle %}
@@ -25,7 +25,7 @@
                 </ul>
               </li>
             {% else %}
-              <li><a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+              <li class="nav-item"><a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
             {% endif %}
           {% endif %}
         {% endfor %}
@@ -35,20 +35,27 @@
 </header>
 
 <style>
-  /* General navigation styles */
-  .site-nav ul {
+  /* General Navigation Styles */
+  .site-nav {
+    display: flex;
+    justify-content: center; /* Centers the navigation */
+  }
+
+  .nav-list {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
-    gap: 20px;
+    justify-content: space-around; /* Spreads out the menu items evenly */
+    width: 80%; /* Adjust this value to control spacing */
   }
 
-  .site-nav li {
+  .nav-item {
     position: relative;
+    padding: 10px 20px; /* Adds spacing between menu items */
   }
 
-  /* Dropdown styling */
+  /* Dropdown menu */
   .dropdown-menu {
     display: none;
     position: absolute;
@@ -59,10 +66,13 @@
     padding: 10px 0;
     list-style: none;
     z-index: 1000;
+    left: 50%;
+    transform: translateX(-50%);
   }
 
   .dropdown-menu li {
     padding: 10px;
+    text-align: center;
   }
 
   .dropdown-menu li a {
@@ -77,7 +87,7 @@
     color: white;
   }
 
-  /* Show dropdown on hover */
+  /* Show dropdown only on hover */
   .dropdown:hover .dropdown-menu {
     display: block;
   }

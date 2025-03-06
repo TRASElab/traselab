@@ -10,10 +10,11 @@ rank: 4
 
 The **Risk Calculator of Treatment Resistance in Psychosis (TRipCal)** is an ongoing research project led by researchers at the University of Hong Kong. The goal is to develop an **individual risk calculator** for predicting the likelihood of treatment resistance in patients experiencing first-episode psychosis.
 
-For more details, visit the **official website**:  
-🔗 [**TRipCal**](https://tripcal.psychiatry.hku.hk/)
-
 📄 [**Read our paper on the methodology and findings here**](https://www.nature.com/articles/s41398-024-02754-w)
+
+🔗For more details, visit the official online calculator: [**TRipCal**](https://tripcal.psychiatry.hku.hk/)
+
+
 <br><br>
 ## The Psychosis Metabolic Risk Calculator (PsyMetRiC)
 <img src="{{ site.baseurl }}/images/psymetric.png" alt="PsyMetRic" style="width: 200px; float: left; margin-right: 20px;">

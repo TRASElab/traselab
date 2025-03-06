@@ -20,6 +20,7 @@ My main research interests are in the evaluation of early intervention service, 
 - Molly Li
 - Hui Chen Photon
 - Charmaine Wong
+- Sophia
 
 ## Research Assistants
 - Sally Tse

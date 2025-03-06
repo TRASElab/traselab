@@ -35,4 +35,4 @@ toggle: on
 
 14.	Chan S.K.W.*, Chan H.Y.V., Honer W.G., Bastiampillai T., Suen Y.N., Yeung W.S., Lam M., Lee W.K., Ng R.M.K., Hui C.L.M., Chang W.C., Lee E.H.M., & Chen E.Y.H. (2021). Predictors of treatment resistant and clozapine resistant schizophrenia: A 12 years follow up study of first episode schizophrenia-spectrum disorders. Schizophrenia Bulletin. 47(2): 485-494. [doi: 10.1093/schbul/sbaa145](https://pmc.ncbi.nlm.nih.gov/articles/PMC7965066/). (JIF= 5.3, Psychiatry ranking = 28/279, Google Scholar Citation: 78, Scopus: 60)
 
-[Click here for more publications from our lab!](https://scholar.google.com/citations?user=ftcxXVIAAAAJ&hl=en)
+📖[Click here for more publications from our lab!](https://scholar.google.com/citations?user=ftcxXVIAAAAJ&hl=en)

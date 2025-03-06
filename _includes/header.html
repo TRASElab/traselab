@@ -14,27 +14,27 @@
         {% assign current_page = page.url | remove: 'index.html' %}  <!-- Get current page URL -->
         
         {% assign pages = site.pages | sort: "rank" %}
-        {% for p in pages %}
-          {% if p.title and p.toggle %}
-            {% assign page_url = p.url | remove: 'index.html' %}
+       {% for p in pages %}
+  {% if p.title and p.toggle and p.title != "Risk Calculators" %}
+    {% assign page_url = p.url | remove: 'index.html' %}
 
-            {% if p.title == "Team" %}
-              <!-- Dropdown Menu for Team -->
-              <li class="nav-item dropdown {% if current_page contains page_url %} active {% endif %}">
-                <a class="page-link" href="{{ site.baseurl }}/team-static/">Team</a>
-                <ul class="dropdown-menu">
-                  <li><a href="{{ site.baseurl }}/team-static/#pi">Principal Investigator</a></li>
-                  <li><a href="{{ site.baseurl }}/team-static/#postgraduates">Postgraduate Students</a></li>
-                  <li><a href="{{ site.baseurl }}/team-static/#ras">Research Assistants</a></li>
-                </ul>
-              </li>
-            {% else %}
-              <li class="nav-item {% if current_page contains page_url %} active {% endif %}">
-                <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
-              </li>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
+    {% if p.title == "Team" %}
+      <!-- Dropdown Menu for Team -->
+      <li class="nav-item dropdown {% if current_page contains page_url %} active {% endif %}">
+        <a class="page-link" href="{{ site.baseurl }}/team-static/">Team</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/team-static/#pi">Principal Investigator</a></li>
+          <li><a href="{{ site.baseurl }}/team-static/#postgraduates">Postgraduate Students</a></li>
+          <li><a href="{{ site.baseurl }}/team-static/#ras">Research Assistants</a></li>
+        </ul>
+      </li>
+    {% else %}
+      <li class="nav-item {% if current_page contains page_url %} active {% endif %}">
+        <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+      </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
     <!-- Dropdown Menu for Risk Calculators -->
 <li class="nav-item dropdown {% if current_page contains '/tripcal/' %} active {% endif %}">

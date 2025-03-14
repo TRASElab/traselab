@@ -25,13 +25,12 @@ My research focuses on advancing the understanding of psychosis and developing i
 My research focuses on social cognition, particularly theory of mind (ToM) and mentalizing impairments across psychiatric disorders. In addition, I am deeply engaged in computational psychiatry and meta-analytic studies, aiming to explore and model the complex interactions between cognitive processes, behavior, and psychopathology.
 
 <br><br>
-
 ### Charmaine Wong (MPhil Student)
 <img src="{{ site.baseurl }}/images/charmaine.jpeg" alt="Charmaine Wong" style="width: 200px; float: left; margin-right: 20px;">
 I am a second-year MPhil student focusing on the impact of digitalization on patients with chronic severe mental illnesses and their recovery. Currently, I am working with a 20-year follow-up sample of individuals with first-episode schizophrenia and bipolar affective disorders.
 
 <br><br>
-
+<br><br>
 ### Ciren Zhuoma (Ph.D Candidate)
 My research interests include youth mental health, self-harm and suicide, and adverse childhood experiences.
 <br><br>

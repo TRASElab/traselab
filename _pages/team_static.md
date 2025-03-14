@@ -35,9 +35,7 @@ My research interests include youth mental health, self-harm and suicide, and ad
 <br><br>
 ### Molly Li (Ph.D Candidate)
 My research focuses on the longitudinal trajectories and outcomes of severe mental illness.
-<br><br>
-### Charmaine Wong (MPhil Student)
-research interest
+
 <br><br>
 ### Sophia (MPhil Student)
 research interest
